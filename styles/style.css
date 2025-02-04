@@ -22,7 +22,6 @@ header {
 .menu {
   display: flex;
   flex-direction: column;
-  
 }
 
 .header__links-list-item_no-bullit {
@@ -109,9 +108,8 @@ header {
 }
 
 .aligned-text_right {
-    padding-top: 20px;
-    margin:0;
-    line-height: 0.75;
+  padding-top: 20px;
+  line-height: 0.75;
   text-align: right;
 }
 
@@ -349,8 +347,8 @@ header {
 }
 
 .footer_social-icon {
-    width: 48px;
-    height: 48px;
+  width: 48px;
+  height: 48px;
 }
 .footer_social-list-item {
   list-style: none;
