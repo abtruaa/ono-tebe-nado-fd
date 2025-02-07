@@ -1,1 +1,1 @@
-https://github.com/abtruaa/ono-tebe-nado
+https://github.com/abtruaa/ono-tebe-nado-fd
